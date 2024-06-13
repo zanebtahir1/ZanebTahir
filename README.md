@@ -2,7 +2,7 @@
 #include<stdio.h>
 
 int main()  {
-printf("Hello, My name is Zaneb");
+printf("This is the first repository that I made");
 
 
 return 0;
