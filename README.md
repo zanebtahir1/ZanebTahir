@@ -2,8 +2,12 @@
 #include<stdio.h>
 
 int main()  {
-printf("This is the first repository that I made");
-
+printf("Let's add two numbers");
+int a=5:
+int b=7:
+int c;
+c=a+b;
+printf("%d+%d=%d", ,b,c);
 
 return 0;
 
